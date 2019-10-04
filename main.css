@@ -1,0 +1,82 @@
+
+img{
+width:500px;
+border-radius: 30%;
+display: inline-block;
+float: left;
+margin:30px;
+
+}
+body{
+    background-image: url("mystory.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    margin:20px;
+    font-size: 30px;
+    
+
+  }
+  
+ .title{
+text-align: center;
+color:red;
+font-size: 30px;
+margin-top:40px;
+ }
+ header{
+     text-align: center;
+     
+ }
+ a{
+ color:red;
+}
+  p{
+      color:white;
+      margin-left: 40%
+  }
+
+ .first{
+     color:red;
+     text-align: center;
+
+
+    }
+ .job{
+     font-size: 30px;
+ }
+ .projects{
+    color:red;
+margin-left: 40%;
+
+ }
+ .projectTitle{
+    text-align: center;
+    color:red;
+ }
+ .clickme{
+    margin-left: 45%;
+  
+ }
+ .contactMe{
+    margin-left: 65%;
+    color:red;
+
+ }
+ .info{
+     font-size: 25px;
+     color:white;
+ }
+ .contact{
+     color:red;
+     font-size: 35px;
+ }
